@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hey :snake:
 My name is Victor and I'm currently a PhD student at the 🇮🇹 University of Trento 🇮🇹
 
 :notebook: Doing research on self-supervised learning and domain adaptation for computer vision
