@@ -1,6 +1,6 @@
 ### Hey :snake:
 My name is Victor 👋
-- 🇬🇧 AI Research Internt at Samsung Research Center in Cambridge.
+- 🇬🇧 AI Research Intern at Samsung Research Center in Cambridge.
 - 🇮🇹 PhD student at the University of Trento.
 
 :notebook: Doing research on self-supervised learning and domain adaptation for computer vision.
