@@ -9,5 +9,5 @@ My name is Victor 👋
 :snake: Pythonista since 2014.
 
 :robot: Teaching machines how to learn since 2016.
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vturrisi)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=vturrisi)](https://github.com/anuraghazra/github-readme-stats)
