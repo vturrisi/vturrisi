@@ -1,8 +1,9 @@
-### Hey :snake:
-My name is Victor 👋
-- 🇩🇪 Applied Scientist Intern at Amazon Berlin (2022 - cur).
-- 🇬🇧 AI Research Intern at Samsung Research Center in Cambridge (2022 - 2022).
+
 - 🇮🇹 PhD student at the University of Trento (2019 - cur).
+
+- 🇩🇪 Applied Scientist Intern at Amazon Berlin (2022).
+- 🇬🇧 AI Research Intern at Samsung Research Center in Cambridge (2022).
+
 
 :notebook: Doing research on self-supervised learning and domain adaptation for computer vision.
 
