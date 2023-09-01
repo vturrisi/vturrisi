@@ -1,11 +1,9 @@
-
 - 🇮🇹 PhD student at the University of Trento (2019 - cur).
-
 - 🇩🇪 Applied Scientist Intern at Amazon Berlin (2022).
 - 🇬🇧 AI Research Intern at Samsung Research Center in Cambridge (2022).
 
 
-:notebook: Doing research on self-supervised learning and domain adaptation for computer vision.
+:notebook: Doing research on self-supervised learning for vision and vision and language models.
 
 :snake: Pythonista since 2014.
 
